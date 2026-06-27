@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋<br><br>I'm Shashwat, a Computer Science student who loves building projects, solving coding challenges, and learning something new every day.<br><br>Currently exploring:<br>- 💻 Software Development<br>- 🗄️ SQL & Databases<br>- ⚡ Backend Development<br>- 🤖 AI-powered Applications<br><br>
+Ay 👋,
+<br><br>I'm Shashwat, a Computer Science student who loves building projects, solving coding challenges, and learning something new every day.<br><br>Currently exploring:<br>- 💻 Software Development<br>- 🗄️ SQL & Databases<br>- ⚡ Backend Development<br>- 🤖 AI-powered Applications<br><br>
 
 
 # 🌐 Socials:
